@@ -124,7 +124,10 @@ usermod -a -G render pi
 7.  Finish and reboot.
 
 -----------------------------
-## 创建与编译项目（win11中操作）
+## 创建与编译项目（win11中操作 必须再 cmd.exe 命令行下运行）
+# 必须再 cmd.exe 命令行下运行
+# 必须再 cmd.exe 命令行下运行
+# 必须再 cmd.exe 命令行下运行
 - 在 Win11 中操作
 1. 创建 Flutter 项目 (安装正常创建就好)
 ```shell
